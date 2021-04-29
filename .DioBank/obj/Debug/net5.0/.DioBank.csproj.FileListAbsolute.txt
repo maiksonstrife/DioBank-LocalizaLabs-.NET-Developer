@@ -1,0 +1,16 @@
+E:\Dio .Net\Bank\.DioBank\bin\Debug\net5.0\.DioBank.exe
+E:\Dio .Net\Bank\.DioBank\bin\Debug\net5.0\.DioBank.deps.json
+E:\Dio .Net\Bank\.DioBank\bin\Debug\net5.0\.DioBank.runtimeconfig.json
+E:\Dio .Net\Bank\.DioBank\bin\Debug\net5.0\.DioBank.runtimeconfig.dev.json
+E:\Dio .Net\Bank\.DioBank\bin\Debug\net5.0\.DioBank.dll
+E:\Dio .Net\Bank\.DioBank\bin\Debug\net5.0\ref\.DioBank.dll
+E:\Dio .Net\Bank\.DioBank\bin\Debug\net5.0\.DioBank.pdb
+E:\Dio .Net\Bank\.DioBank\obj\Debug\net5.0\.DioBank.csprojAssemblyReference.cache
+E:\Dio .Net\Bank\.DioBank\obj\Debug\net5.0\.DioBank.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dio .Net\Bank\.DioBank\obj\Debug\net5.0\.DioBank.AssemblyInfoInputs.cache
+E:\Dio .Net\Bank\.DioBank\obj\Debug\net5.0\.DioBank.AssemblyInfo.cs
+E:\Dio .Net\Bank\.DioBank\obj\Debug\net5.0\.DioBank.csproj.CoreCompileInputs.cache
+E:\Dio .Net\Bank\.DioBank\obj\Debug\net5.0\.DioBank.dll
+E:\Dio .Net\Bank\.DioBank\obj\Debug\net5.0\ref\.DioBank.dll
+E:\Dio .Net\Bank\.DioBank\obj\Debug\net5.0\.DioBank.pdb
+E:\Dio .Net\Bank\.DioBank\obj\Debug\net5.0\.DioBank.genruntimeconfig.cache
